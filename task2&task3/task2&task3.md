@@ -16,4 +16,4 @@ public class DetailActivity extends AppCompatActivity implements Interface1, Int
 ## Internal Keyword 
 
 * A value defined as Internal; accessible from within the same program, but inaccessible from within a different program. There are no restrictions in the program.
-* It is available in C# language.There is no exact equivalent in Java.
+* It is available in C# language. There is no exact equivalent in Java.

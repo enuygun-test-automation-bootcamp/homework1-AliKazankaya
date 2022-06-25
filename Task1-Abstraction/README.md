@@ -1,4 +1,4 @@
-# homework1
+# task1
 ## ödev1 - Abstract Class Nedir ? 
 
 Sınıflar arasında pek çok ortak özellik ve davranış bulunduğu durumlarda tasarlanan soyut sınıflardır.  Kod tekrarını engelleyerek hem daha derli toplu bir görüntü sağlar hem de hata yapma riskini azaltır. Ortak bir şablon üzerinden ilerleme imkanı sunar ve bu sınıfların temel amacı da budur. Dolayısıyla, Abstract sınıflardan nesne üretimi gerçekleştirilemez
